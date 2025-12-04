@@ -1,4 +1,4 @@
-package it.prova.utility;
+package it.prova.model;
 
 import java.util.List;
 

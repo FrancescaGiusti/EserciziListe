@@ -1,6 +1,6 @@
 package it.prova.test;
 
-import it.prova.utility.Assicurato;
+import it.prova.model.Assicurato;
 
 import java.util.ArrayList;
 import java.util.Arrays;
